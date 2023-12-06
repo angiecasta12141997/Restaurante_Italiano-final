@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #BF907E;
+    color: #fff;
+    padding: 10px;
+}
+
+#form-container {
+    display: flex;
+    justify-content: space-around; /* Ajusta el espacio entre los formularios */
+}
+
+.form-column {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+/* Estilos generales para los formularios */
+#product-form-add,
+#product-form-update,
+#product-form-search,
+#product-form-delete {
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    flex-direction: column;
+}
+
+#message {
+    color: green;
+    font-weight: bold;
+}
+
+#product-list {
+    list-style-type: none;
+}
+
+li {
+    border: 1px solid #ccc;
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Para las cajas de texto */
+#product-form-add input[type="text"],
+#product-form-add input[type="number"],
+#product-form-update input[type="text"],
+#product-form-update input[type="number"],
+#product-form-search input[type="text"],  /* Corregido */
+#product-form-delete input[type="text"] {
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="number"] {
+    margin-bottom: 10px; /* Agrega un margen inferior a las cajas de texto */
+}
+
+
+
+

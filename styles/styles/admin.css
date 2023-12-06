@@ -1,0 +1,105 @@
+#add-product-form{
+    background: #FBDDD5;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 200px;
+    height: 280px;
+    flex-direction: row;
+}
+#add-product-form input{
+    margin: 4px;
+    padding: 2px;
+}
+.actualizar2{
+    background: #FBDDD5;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 200px;
+    height: 280px;
+    flex-direction: row;
+}
+.actualizar2 input{
+    margin: 4px;
+    padding: 2px;
+}
+
+.buscar2{
+    background: #FBDDD5;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 200px;
+    height: 280px;
+    flex-direction: row;
+}
+.buscar2 input{
+    margin: 4px;
+    padding: 2px;
+}
+.buscar2 label{
+    margin: 4px;
+    padding: 2px;
+}
+.eliminar2{
+    background: #FBDDD5;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 200px;
+    height: 280px;
+    flex-direction: row;
+}
+.eliminar2 input{
+    margin: 4px;
+    padding: 2px;
+}
+.eliminar2 label{
+    margin: 4px;
+    padding: 2px;
+}
+#btn-agregar{
+    background: #5f8c3f;
+    align-items: center;
+    color: #0d0d0d;
+    margin: 16px;
+    padding: 14px;
+    border: 1px solid  #FBDDD5;
+    border-radius: 6px;
+}
+#btn-actualizar{
+    background: #5f8c3f;
+    align-items: center;
+    color: #0d0d0d;
+    margin: 16px;
+    padding: 14px;
+    border: 1px solid  #FBDDD5;
+    border-radius: 6px;
+}
+#btn-buscar{
+    background: #5f8c3f;
+    align-items: center;
+    color: #0d0d0d;
+    margin: 16px;
+    padding: 14px;
+    border: 1px solid  #FBDDD5;
+    border-radius: 6px;
+}
+#btn-eliminar{
+    background: #5f8c3f;
+    align-items: center;
+    color: #0d0d0d;
+    margin: 16px;
+    padding: 14px;
+    border: 1px solid  #FBDDD5;
+    border-radius: 6px;
+}

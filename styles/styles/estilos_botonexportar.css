@@ -1,0 +1,17 @@
+.botoncentro {
+    text-align: center;
+}
+
+#buttonExportar,
+#btn-agregar, 
+#btn-actualizar,
+#btn-buscar,
+#btn-eliminar {
+    padding: 10px 20px;
+    font-size: 12px;
+    background-color: #5F8C3F; 
+    color: black;
+    border-radius: 10%; 
+    cursor: pointer; 
+}
+
